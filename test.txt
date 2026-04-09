@@ -1,2 +1,4 @@
 "hello" 
 "second line" 
+"second line" 
+"feature’Ç‰Á" 
